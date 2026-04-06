@@ -2,8 +2,6 @@ title: dynamarq
 description: A scalable benchmarking framework for dynamic quantum circuits
 theme: just-the-docs
 
-url: https://github.com/sumeetshirgure/dynamarq
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -55,4 +53,3 @@ heading_anchors: true
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
-
