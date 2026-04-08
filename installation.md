@@ -9,13 +9,13 @@ nav_order: 0
 
 ---
 
-dynamarq is available as a PyPI package, and can be installed using
+_dynamarq_ is available as a PyPI package, and can be installed using
 
 ```bash
 $ pip install dynamarq
 ```
 
-It is highly recommended to install dynamarq using a python virtual environment manager like
+It is highly recommended to install _dynamarq_ using a python virtual environment manager like
 [venv](https://docs.python.org/3/library/venv.html){:target="\_blank"} or
 [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html){:target="\_blank"}.
 
