@@ -35,7 +35,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "dynamarq on GitHub":
+  "GitHub":
     - "//github.com/sumeetshirgure/dynamarq"
 
 # Makes Aux links open in a new tab. Default is false
